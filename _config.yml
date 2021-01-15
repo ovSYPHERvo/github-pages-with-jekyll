@@ -3,11 +3,12 @@ author: ovSYPHERvo
 email: jasonb2905@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my developer blog, page one. I am Jason (ovSYPHERvo), 
-  and this is test one. Blah Blah Blah, words words words
+  and this is blog one, I blog for the purpose of keeping logs and progression history
 
 # social links
 github_username:  ovSYPHERvo # DO NOT include the @ character, or else the build will fail!
 
+slide_show: (Slideshw)[https://ovsyphervo.github.io/github-slideshow/]
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
